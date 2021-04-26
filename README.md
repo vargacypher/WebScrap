@@ -1,3 +1,3 @@
 # WebScrap
 
-Solução desenvolvida para a empresa Efficienza solouções em energia LTDA
+Solução desenvolvida para a empresa Efficienza soluções em energia LTDA
